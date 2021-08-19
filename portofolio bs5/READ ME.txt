@@ -1,4 +1,4 @@
 Website Sederhana menggunakan Framework Bootstrap 5
 
 built by Ibrahim Afrado
-thanks to Sandhika Galih (Web Programming UNPAS)
+thanks to Mr.Sandhika Galih (Web Programming UNPAS)
